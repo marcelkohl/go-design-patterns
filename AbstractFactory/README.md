@@ -4,6 +4,11 @@ In Abstract Factory pattern an interface is responsible for creating a factory o
 
 ![Alt text](https://raw.githubusercontent.com/marcelkohl/go-design-patterns/main/AbstractFactory/sample.png)
 
+## Running
+```
+go run .
+```
+
 ## Copyright
 Some content here is based on:
 
