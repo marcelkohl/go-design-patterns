@@ -7,6 +7,11 @@ func main() {
   cityAb, _ := getCityFactory("Ab")
   printDemographics(cityAb.makeDemographics())
   printExpenses(cityAb.makeExpenses())
+
+  fmt.Println("\nCity Xy info:")
+  cityXy, _ := getCityFactory("Xy")
+  printDemographics(cityXy.makeDemographics())
+  printExpenses(cityXy.makeExpenses())
 }
 
 func printDemographics(d iDemographics) {
