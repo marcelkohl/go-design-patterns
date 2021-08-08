@@ -2,7 +2,7 @@
 Abstract Factory pattern work around a super-factory which creates other factories. This factory is also called as factory of factories.
 In Abstract Factory pattern an interface is responsible for creating a factory of related objects without explicitly specifying their classes.
 
-![Alt text](https://raw.githubusercontent.com/marcelkohl/go-design-patterns/main/AbstractFactory/sample.png "a title")
+![Alt text](https://raw.githubusercontent.com/marcelkohl/go-design-patterns/main/AbstractFactory/sample.png)
 
 ## Copyright
 Some content here is based on:
