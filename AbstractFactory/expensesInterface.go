@@ -1,6 +1,6 @@
 package main
 
-type iExpenses interface {
+type expensesInterface interface {
   getForecast() float32
   getSpent() float32
 }

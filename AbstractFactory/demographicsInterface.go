@@ -1,6 +1,6 @@
 package main
 
-type iDemographics interface {
+type demographicsInterface interface {
   getPopulation() int
   getMajorityGender() string
 }

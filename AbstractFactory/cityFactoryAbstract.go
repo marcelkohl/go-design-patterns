@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func getCityFactory(cityRef string) (iCityFactory, error) {
+func getCityFactory(cityRef string) (cityFactoryInterface, error) {
   if cityRef == "Ab" {
       return &cityAbFactory{}, nil
   } else if cityRef == "Xy" {

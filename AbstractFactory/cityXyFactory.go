@@ -3,7 +3,7 @@ package main
 type cityXyFactory struct {
 }
 
-func (c *cityXyFactory) makeDemographics() iDemographics {
+func (c *cityXyFactory) makeDemographics() demographicsInterface {
   return &cityXyDemographics{
     demographics: demographics{
       population: 426,
@@ -12,7 +12,7 @@ func (c *cityXyFactory) makeDemographics() iDemographics {
   }
 }
 
-func (c *cityXyFactory) makeExpenses() iExpenses {
+func (c *cityXyFactory) makeExpenses() expensesInterface {
   return &cityXyExpenses{
     expenses: expenses{
       forecast: 2410.21,
