@@ -2,7 +2,7 @@
 Builder pattern builds a complex object using simple objects and using a step by step approach.
 The pattern allows you to produce different types and representations of an object using the same construction code
 
-![Alt text](https://raw.githubusercontent.com/marcelkohl/go-design-patterns/main/AbstractFactory/diagram.png)
+![Alt text](https://raw.githubusercontent.com/marcelkohl/go-design-patterns/main/AbstractFactory/diagram-builder.png)
 
 1. **Builder interface** declares product construction steps that are common to all types of builders.
 2. **Concrete Builders** provide different implementations of the construction steps.
