@@ -5,6 +5,13 @@ type shape struct {
   angles    int
 }
 
+func (s *shape) new() shapeInterface {
+  s.shapeType = "undefined"
+  s.angles = 0
+
+  return s
+}
+
 func (s *shape) getShapeType() string {
   return s.shapeType
 }

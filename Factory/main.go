@@ -4,9 +4,9 @@ import "fmt"
 
 func main() {
     shapeCircle, _ := getShape("circle")
-    // maverick, _ := getGun("maverick")
+    shapeSquare, _ := getShape("square")
     printDetails(shapeCircle)
-    // printDetails(maverick)
+    printDetails(shapeSquare)
 }
 
 func printDetails(s shapeInterface) {
