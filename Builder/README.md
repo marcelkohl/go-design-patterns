@@ -14,7 +14,7 @@ The pattern allows you to produce different types and representations of an obje
 go run .
 ```
 
-## Copyright
+## Copyright and References
 Some content here is based on:
 
 - [Builder Pattern in Go](https://golangbyexample.com/builder-pattern-golang/) from [Golang By Example](https://golangbyexample.com).

@@ -9,7 +9,7 @@ In Abstract Factory pattern an interface is responsible for creating a factory o
 go run .
 ```
 
-## Copyright
+## Copyright and References
 Some content here is based on:
 
 - [Abstract Factory Design Pattern in Go](https://golangbyexample.com/abstract-factory-design-pattern-go/) from [Golang By Example](https://golangbyexample.com).

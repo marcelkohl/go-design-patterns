@@ -12,7 +12,7 @@ Factory pattern creates objects without exposing the creation to the client. The
 go run .
 ```
 
-## Copyright
+## Copyright and References
 Some content here is based on:
 
 - [Factory Design Pattern in Go](https://golangbyexample.com/golang-factory-design-pattern/) from [Golang By Example](https://golangbyexample.com).
