@@ -5,5 +5,6 @@ The examples here are based on a great article posted on [Golang Advanced Tutori
 ## Creational Design Patterns
 - [Abstract Factory](https://github.com/marcelkohl/go-design-patterns/tree/main/AbstractFactory)
 - [Builder](https://github.com/marcelkohl/go-design-patterns/tree/main/Builder)
+- [Factory](https://github.com/marcelkohl/go-design-patterns/tree/main/Factory)
 ## Behavioural Design Patterns
 ## Structural Design Patterns

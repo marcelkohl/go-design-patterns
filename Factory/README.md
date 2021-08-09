@@ -1,7 +1,7 @@
 # Factory Pattern
 Factory pattern creates objects without exposing the creation to the client. The result refers to the created object using a common interface.
 
-![Alt text](https://raw.githubusercontent.com/marcelkohl/go-design-patterns/main/Builder/diagram.png)
+![Alt text](https://raw.githubusercontent.com/marcelkohl/go-design-patterns/main/Factory/diagram.png)
 
 1. The client only interacts with a factory asking for the kind of objects needed.
 2. The factory interacts with the corresponding concrete creator and returns back the correct object.
