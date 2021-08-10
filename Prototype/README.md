@@ -18,4 +18,4 @@ Some content here is based on:
 
 - [Prototype Pattern in Go](https://golangbyexample.com/prototype-pattern-go/) from [Golang By Example](https://golangbyexample.com).
 - [Prototype](https://refactoring.guru/design-patterns/prototype) from [Refactoring Guru](https://refactoring.guru).
-- [Prototype](https://sourcemaking.com/design_patterns/prototype) from [Prototype Design Pattern](https://sourcemaking.com).
+- [Prototype Design Pattern](https://sourcemaking.com/design_patterns/prototype) from [Source Making](https://sourcemaking.com).
