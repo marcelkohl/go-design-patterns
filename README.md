@@ -8,6 +8,7 @@ Examples in this project are based on multiple articles about design patterns. T
 - [Builder](https://github.com/marcelkohl/go-design-patterns/tree/main/Builder)
 - [Factory](https://github.com/marcelkohl/go-design-patterns/tree/main/Factory)
 - [Object Pool or Resource of Pools](https://github.com/marcelkohl/go-design-patterns/tree/main/ObjectPool)
+- [Prototype](https://github.com/marcelkohl/go-design-patterns/tree/main/Prototype)
 
 ## Behavioural Design Patterns
 ## Structural Design Patterns
