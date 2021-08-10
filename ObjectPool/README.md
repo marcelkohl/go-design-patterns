@@ -7,11 +7,12 @@ Some implementations may also add a facility to clean up unused objects periodic
 
 ![Alt text](https://raw.githubusercontent.com/marcelkohl/go-design-patterns/main/ObjectPool/diagram.png)
 
-1. **Client** requests and gives back resources the object pool using specific methods like `acquire` and `release`;
-2. **Object Pool** controls the list of available and maximum limit of objects in the pool. The object pool may instantiate new objects as they are required.
+1. **Client** requests and gives back resources to the `object pool` using specific methods like `acquire` and `release`;
+2. **Object Pool** controls the list of available and maximum limit of objects in the pool. The `object pool` may instantiate new objects as they are required.
 
 ## Running
 ```
+go get github.com/google/uuid
 go run .
 ```
 
