@@ -12,4 +12,6 @@ Examples in this project are based on multiple articles about design patterns. T
 - [Singleton](https://github.com/marcelkohl/go-design-patterns/tree/main/Singleton)
 
 ## Behavioural Design Patterns
+- [Chain of Responsibility](https://github.com/marcelkohl/go-design-patterns/tree/main/ChainOfResponsibility)
+
 ## Structural Design Patterns
