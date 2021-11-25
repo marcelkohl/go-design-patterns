@@ -15,3 +15,4 @@ Examples in this project are based on multiple articles about design patterns. T
 - [Chain of Responsibility](https://github.com/marcelkohl/go-design-patterns/tree/main/ChainOfResponsibility)
 
 ## Structural Design Patterns
+- [Composition vs Aggregation](https://github.com/marcelkohl/go-design-patterns/tree/main/CompositionVsAggregation)
